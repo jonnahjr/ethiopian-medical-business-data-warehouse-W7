@@ -1,5 +1,5 @@
 
-# EthioMedDataWarehouse 📊🏥
+# ethiopian medical business data warehouse 📊🏥
 
 ## Overview 🌍
 
